@@ -31,3 +31,8 @@ This project is independent and the goal is to release it before the Connect pil
 Letters is the application that regular users (on the *outside*) will access that will allow them to easily find an inmate and send letters to them. So users will sign up, add inmates to their contact list, and write up a "letter" the same way one would write an e-mail. Then we will interact with a separate API/servicve.
 
 Letters will be another PHP/Laravel application but will also involve a web-scraping project written in Python. Some things are still TBD regarding this project but if you're interested in web-scraping then this project is for you.
+
+## Letters Nationwide Inmate DB
+We'll be scraping publicly available information and building a database of inmates across the nation, and doing our best to keep it up to date. This will help for getting in touch with inmates even if you don't know their inmate number. If for some reason our database can't automatically fill in the information on the inmate that the user is searching for, we'll link the user to the appropriate website where they can find the correct information.
+
+The web scraping piece of the project will be written in Python.
