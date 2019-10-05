@@ -28,7 +28,7 @@ This will be the front-end application that will eventually consume the Connect 
 
 This project is independent and the goal is to release it before the Connect pilot. The Connect application is meant to be modular and tweaked per facility (if necessary) while the Letters application is completely independent.
 
-Letters is the application that regular users (on the *outside*) will access that will allow them to easily find an inmate and send letters to them. So users will sign up, add inmates to their contact list, and write up a "letter" the same way one would write an e-mail. Then we will interact with a separate API/servicve.
+Letters is the application that regular users (on the *outside*) will access that will allow them to easily find an inmate and send letters to them. So users will sign up, add inmates to their contact list, and write up a "letter" the same way one would write an e-mail. Then we will interact with a separate API/service.
 
 Letters will be another PHP/Laravel application but will also involve a web-scraping project written in Python. Some things are still TBD regarding this project but if you're interested in web-scraping then this project is for you.
 
