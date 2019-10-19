@@ -1,8 +1,8 @@
 # Project Overview
 
-If you look at the GitHub Organization, you'll see a number of projects. We're taking an semi-API Driven Development approach with most of the projects, except for the official Ameelio website which will be a single application.
+If you look at the GitHub Organization, you'll see a number of projects.
 
-This README isn't meant to be a complete design document (yet), but should give you an overview of the projects that we'll be working on. Also note that besides the demo, none of these projects have been started. Don't feel too intimidated by that though, because it's a good chance to be a part of the true beginnings of Ameelio and gain experience doing this sort of development from start to finish (or from start to maintain).
+This README isn't meant to be a complete design document, but should give you an overview of the projects that we'll be working on.
 
 # Projects
 
@@ -31,6 +31,9 @@ This project is independent and the goal is to release it before the Connect pil
 Letters is the application that regular users (on the *outside*) will access that will allow them to easily find an inmate and send letters to them. So users will sign up, add inmates to their contact list, and write up a "letter" the same way one would write an e-mail. Then we will interact with a separate API/service.
 
 Letters will be another PHP/Laravel application but will also involve a web-scraping project written in Python. Some things are still TBD regarding this project but if you're interested in web-scraping then this project is for you.
+
+## Letters Locate API
+This will be an API that we use internally to locate inmates located in Federal and State prisons. In the future we hope to expand the API to allow for searching jail inmates as well. For now the application is written in PHP using the Laravel framework. The API will be used by the Letter application when users go to search/add inmates to their contact list. Currently you can make GET requests to the API and it will return a JSON response with useful data.
 
 ## Letters Nationwide Inmate DB
 We'll be scraping publicly available information and building a database of inmates across the nation, and doing our best to keep it up to date. This will help for getting in touch with inmates even if you don't know their inmate number. If for some reason our database can't automatically fill in the information on the inmate that the user is searching for, we'll link the user to the appropriate website where they can find the correct information.
