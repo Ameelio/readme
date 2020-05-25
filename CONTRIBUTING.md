@@ -58,7 +58,7 @@ If the answer to either of those two questions are "yes", then you're probably d
 
 All other issues can be submitted on GitHub.
 
-When filing an issue, make sure to answer these five questions:
+When filing an issue, make sure to answer these three questions:
 
 1. What did you do?
 2. What did you expect to see?
