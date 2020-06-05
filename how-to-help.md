@@ -1,7 +1,3 @@
 # How can you help?
 
-We have various projects that need assistance. As we work to establish a consistent workflow for each project, communication is key. To contribute, you should first join Slack, after reading the [Project Overview](overview.md) document.
-
-## Find us on GitHub
-
-Our GitHub organization can be found [here](https://github.com/AmeelioDev). There you can see a list of our projects and you can view current issues in each individual repositories issue tracker. There you can see what needs to be done or even submit your own issue if you found a bug or would like to see functionality added to one of those applications.
+We have various projects that need assistance. As we work to establish a consistent workflow for each project, communication is key. To contribute, you should first read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details on our code of conduct, and [CONTRIBUTING.md](CONTRIBUTING.md) for the process for submitting pull requests to us. Once you're familiar with our community guidelines, you can explore the repos in our [GitHub orgainization](https://github.com/AmeelioDev). Here you will find a list of our projects and can look through our projects and issues for the kinds of help that we need. If you would like more information about opportunities to become involved with our mission, please reach out to team@ameelio.org. We accept all kinds of volunteers, not just developers!
