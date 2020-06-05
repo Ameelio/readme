@@ -1,6 +1,6 @@
 # Introduction
 
-Ameelio is a rapidly growing movement powered by the generous contributions of volunteers like yourself. You can join the fight against the monitization of prison communications and help us to transform the incarceration system in America. No big commitment is required, if all you do is review a single Pull Request, you are a maintainer and a hero.
+Ameelio is a rapidly growing movement powered by the generous contributions of volunteers like yourself. You can join the fight against the monitization of prison communications and help us to transform the incarceration system in America. No big commitment is required, if all you do is review a single Pull Request, it is still incredibly helpful and goes a long way towards accomplishing our mission of making a more compassionate and rehabilitative justice system.
 
 Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
